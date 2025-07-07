@@ -1,0 +1,14 @@
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.AssemblyInfoInputs.cache
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.AssemblyInfo.cs
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.csproj.CoreCompileInputs.cache
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\bin\Debug\net8.0\ShapeAreaDiameterDemo.exe
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\bin\Debug\net8.0\ShapeAreaDiameterDemo.deps.json
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\bin\Debug\net8.0\ShapeAreaDiameterDemo.runtimeconfig.json
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\bin\Debug\net8.0\ShapeAreaDiameterDemo.dll
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\bin\Debug\net8.0\ShapeAreaDiameterDemo.pdb
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.dll
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\refint\ShapeAreaDiameterDemo.dll
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.pdb
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ShapeAreaDiameterDemo.genruntimeconfig.cache
+C:\Users\llung\source\repos\ShapeAreaDiameterDemo\ShapeAreaDiameterDemo\obj\Debug\net8.0\ref\ShapeAreaDiameterDemo.dll

@@ -1,0 +1,14 @@
+C:\projects\Code_Examples\CodeSamples\bin\Debug\net9.0\CodeSamples.exe
+C:\projects\Code_Examples\CodeSamples\bin\Debug\net9.0\CodeSamples.deps.json
+C:\projects\Code_Examples\CodeSamples\bin\Debug\net9.0\CodeSamples.runtimeconfig.json
+C:\projects\Code_Examples\CodeSamples\bin\Debug\net9.0\CodeSamples.dll
+C:\projects\Code_Examples\CodeSamples\bin\Debug\net9.0\CodeSamples.pdb
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.AssemblyInfoInputs.cache
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.AssemblyInfo.cs
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.csproj.CoreCompileInputs.cache
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.dll
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\refint\CodeSamples.dll
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.pdb
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\CodeSamples.genruntimeconfig.cache
+C:\projects\Code_Examples\CodeSamples\obj\Debug\net9.0\ref\CodeSamples.dll
